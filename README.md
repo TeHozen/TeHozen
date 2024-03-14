@@ -13,7 +13,7 @@ Actuellement étudiant en deuxième année de Bachelor Universitaire de Technolo
 - Frameworks & Technologies: ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PL/SQL](https://img.shields.io/badge/-PL%2FSQL-F80000?style=flat&logo=oracle&logoColor=white)
 
 ## 📱 Projets Actuels
-- Je travaille actuellement sur une application mobile, plongeant dans le monde du développement Android.
+- Je travaille actuellement sur une application mobile, me plongeant ainsi dans le monde du développement Android.
 
 ## 🌱 Apprentissage
 - Actuellement, j'apprends le développement Android pour étendre mes compétences en développement d'applications mobiles.
